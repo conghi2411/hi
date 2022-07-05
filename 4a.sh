@@ -1,7 +1,6 @@
 #!/bin/sh
 num=0
-date
-set `date`
+
 while [ $num -eq 0 ]
 	do 
 		echo "Nhap vao mot file:"
